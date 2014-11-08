@@ -8205,3 +8205,8 @@ button.close {
 .navbar-nav {
   padding-top: 20px;
 }
+/* line 7, ../sass/styles.scss */
+.navbar-nav li > a.ghost-button {
+  color: #7ED321;
+  border: 3px solid #7ED321;
+}
